@@ -51,7 +51,7 @@ you run your code
 ### What is Interpreted Language and what type of language python is?
 First we will discuss what is the difference between compiled and interpreted language.
 
-####Compiled Language:
+#### Compiled Language:
 Like C++, Java. we require to explicitly compile the source code which generate the byte code which we run.
 
 #### Interpreted Language:
