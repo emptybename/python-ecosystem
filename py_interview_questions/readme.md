@@ -50,6 +50,7 @@ Using Mypy(It is static type checker) you can optionally support static type che
 you run your code  
 ### What is Interpreted Language and what type of language python is?
 First we will discuss what is the difference between compiled and interpreted language.
+
 ####Compiled Language:
 Like C++, Java. we require to explicitly compile the source code which generate the byte code which we run.
 
